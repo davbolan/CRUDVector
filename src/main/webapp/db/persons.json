@@ -1,0 +1,40 @@
+﻿[
+  {
+    "address": {
+      "number": "15",
+      "zipCode": "26013",
+      "country": "España",
+      "city": "Madrid",
+      "street": "Calle Sevilla",
+      "floor": "2B",
+      "region": "Madrid"
+    },
+    "name": "Pedro",
+    "secondSurname": "Cuesta",
+    "birth": {
+      "date": "27-01-2018",
+      "country": "Spain"
+    },
+    "documentId": "06883772L",
+    "firstSurname": "Palacio"
+  },
+  {
+    "address": {
+      "number": "15",
+      "zipCode": "26013",
+      "country": "España",
+      "city": "Madrid",
+      "street": "Calle Sevilla",
+      "floor": "2B",
+      "region": "España"
+    },
+    "name": "William",
+    "secondSurname": "White",
+    "birth": {
+      "date": "27-01-1993",
+      "country": "Inglaterra"
+    },
+    "documentId": "12345678L",
+    "firstSurname": "Wallace"
+  }
+]
